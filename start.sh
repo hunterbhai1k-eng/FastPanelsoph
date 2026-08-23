@@ -1,1 +1,1 @@
-python panel.py
+python panel.py3
